@@ -7,7 +7,6 @@
 </div>
 
 ---
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=smrutiranjanbhuyan&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smrutiranjanbhuyan&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
@@ -33,30 +32,6 @@
 
 ---
 
-### 🎬 Cool 3D Animations  
-
-#### 📊 **3D Contribution Graph**
-<div align="center">
-  <img src="https://github.com/smrutiranjanbhuyan/github-profile-3d-contrib/blob/main/profile-night-rainbow.svg" alt="3D Contribution Graph" />
-</div>
-
----
-
-#### 🌀 **3D Activity Rings**
-<div align="center">
-  <img src="https://github.com/smrutiranjanbhuyan/github-profile-3d-ring/blob/main/profile-3d-ring.svg" alt="3D Activity Rings" />
-</div>
-
----
-
-#### 🌌 **3D GitHub Skyline**
-<div align="center">
-  <a href="https://skyline.github.com/smrutiranjanbhuyan/2024">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c72b10f.gif" alt="3D GitHub Skyline Animation" />
-  </a>
-</div>
-
----
 
 ### 📲 Connect With Me  
 <div align="center">
